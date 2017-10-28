@@ -15,7 +15,7 @@ In our previous assignments, you have created JavaScript programs to solve probl
 * Provide working code examples.
 * Code examples should be in GitHub that can be forked into the class GitHub Organization account.
 
-**Topic options:**
+**Topic ideas:**
 1. Django
 2. JanusVR
 3. MDL
