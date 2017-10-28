@@ -5,7 +5,7 @@ In our previous assignments, you have created JavaScript programs to solve probl
 **Due dates:**
 1. Friday, 3 Nov 2017: Choose a partner and a topic.
 2. Monday, 20 Nov 2017: Submit tentative presentation and sign up for presentation timeslot.
-3, 27 Nov - 1 Dec: Student presentations
+3. 27 Nov - 1 Dec: Student presentations
 
 **Criteria:**
 * Presentations need to be from 8-10 minutes, not to exceeed 10 min. 
