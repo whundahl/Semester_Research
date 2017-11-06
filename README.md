@@ -41,5 +41,6 @@ In our previous assignments, you have created JavaScript programs to solve probl
 | Courtney  |           | D3.js          |
 | Andrew S. |           | Node.js        |
 | Thursanth |           | Angular.js     |
+| Zach D.   | Thomas    | Best Practices |
 
 
