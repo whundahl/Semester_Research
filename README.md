@@ -31,5 +31,15 @@ In our previous assignments, you have created JavaScript programs to solve probl
 13. D3.js
 14. MEAN stack
 15. MERN stack
+16. Bootstrap
+
+| Partner 1 | Partner 2 | Research Topic |
+| --------- | --------- | -------------- |
+| Kaelin    | Johnny    | MEAN stack     |
+| Will      | Elizabeth | MDL or Django  |
+| Justin    |           | MERN stack     |
+| Courtney  |           | D3.js          |
+| Andrew S. |           | Node.js        |
+| Thursanth |           | Angular.js     |
 
 
