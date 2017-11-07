@@ -44,4 +44,5 @@ In our previous assignments, you have created JavaScript programs to solve probl
 | Thursanth |           | Angular.js     |
 | Zach D.   | Thomas    | Best Practices |
 | Christopher|  |   |
+| Mackenzie | James | Bootstrap |
 
