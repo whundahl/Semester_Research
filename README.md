@@ -32,6 +32,7 @@ In our previous assignments, you have created JavaScript programs to solve probl
 14. MEAN stack
 15. MERN stack
 16. Bootstrap
+17. HTML templates
 
 | Partner 1 | Partner 2 | Research Topic |
 | --------- | --------- | -------------- |
