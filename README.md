@@ -39,8 +39,8 @@ In our previous assignments, you have created JavaScript programs to solve probl
 | Will      | Elizabeth | MDL or Django  |
 | Justin    |           | MERN stack     |
 | Courtney  |           | D3.js          |
-| Andrew S. |           | Node.js        |
+| Andrew S. | George    | Node.js        |
 | Thursanth |           | Angular.js     |
 | Zach D.   | Thomas    | Best Practices |
-
+| Christopher|  |   |
 
