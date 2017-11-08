@@ -34,15 +34,16 @@ In our previous assignments, you have created JavaScript programs to solve probl
 16. Bootstrap
 17. HTML templates
 
-| Partner 1 | Partner 2 | Research Topic |
-| --------- | --------- | -------------- |
-| Kaelin    | Johnny    | MEAN stack     |
-| Will      | Elizabeth | MDL or Django  |
-| Justin    |           | MERN stack     |
-| Courtney  |           | D3.js          |
-| Andrew S. | George    | Node.js        |
-| Thursanth |           | Angular.js     |
-| Zach D.   | Thomas    | Best Practices |
-| Christopher|  |   |
-| Mackenzie | James | Bootstrap |
+| Partner 1 | Partner 2 | Research Topic | Time slot |
+| --------- | --------- | -------------- | --------- |
+| Kaelin    | Johnny    | MEAN stack     | |
+| Will      | Elizabeth | Django  | |
+| Justin    | Andrew C. | MERN stack     | |
+| Courtney  |           | D3.js          | |
+| Andrew S. | George    | Node.js        | |
+| Thursanth |           | Angular.js     | |
+| Zach D.   | Thomas    | Best Practices | |
+| Christopher|  |   | |
+| Mackenzie | James | Bootstrap | |
+| Omari | Jarrell | | |
 
