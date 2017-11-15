@@ -36,15 +36,15 @@ In our previous assignments, you have created JavaScript programs to solve probl
 
 | Partner 1 | Partner 2 | Research Topic | Time slot |
 | --------- | --------- | -------------- | --------- |
-| Kaelin    | Johnny    | MEAN stack     | |
-| Will      | Elizabeth | Django  | |
-| Justin    | Andrew C. | MERN stack     | |
-| Courtney  |           | D3.js          | |
-| Andrew S. | George    | Node.js        | |
+| Kaelin    | Johnny    | MEAN stack     | Wed/8:40 |
+| Will      | Elizabeth | Django  | Mon/8:50 |
+| Justin    | Andrew C. | MERN stack     | Wed/ 9:00 |
+| Courtney  |           | D3.js          | Mon/8:40 |
+| Andrew S. | George    | Node.js        | Wed/ 9:10 |
 | Thursanth |           | Angular.js     | |
-| Zach D.   | Thomas    | Best Practices | |
+| Zach D.   | Thomas    | Best Practices | Wed/8:50 |
 | Christopher|  |   | |
-| Mackenzie | James | Bootstrap | |
-| Omari | Jarrell | | |
-| Zach R | Alexander | Janus VR | |
-| Robert | | | |
+| Mackenzie | James | Bootstrap | Wed/9:10|
+| Omari | Jarrell | | Mon/9:10 |
+| Zach R | Alexander | Janus VR | Wed/8:40|
+| Robert | | | WEd/8:50 |
