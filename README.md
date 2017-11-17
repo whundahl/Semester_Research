@@ -45,6 +45,6 @@ In our previous assignments, you have created JavaScript programs to solve probl
 | Zach D.   | Thomas    | Best Practices | Wed/8:50 |
 | Christopher| Luke  |   | |
 | Mackenzie | James | Bootstrap | Wed/9:10|
-| Omari | Jarrell | | Mon/9:10 |
+| Omari | Jarrell | jQuery/jQueryUI | Mon/9:10 |
 | Zach R | Alexander | Janus VR | Wed/8:40|
 | Robert | Rob | HTML Canvas | WEd/8:50 |
